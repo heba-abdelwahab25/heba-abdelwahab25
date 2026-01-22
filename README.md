@@ -85,9 +85,6 @@ I enjoy understanding how applications behave under different conditions and lea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-abdelwahab25&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
----
-
-## 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://github.com/heba-abdelwahab25/heba-abdelwahab25/blob/output/github-contribution-grid-snake.svg)
 
