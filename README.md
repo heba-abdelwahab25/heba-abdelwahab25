@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heba Abdelwahab</h1>
+![Snake animation](https://github.com/heba-abdelwahab25/heba-abdelwahab25/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">
 Junior Technical Engineer | QA, Security & Systems
 </h3>
