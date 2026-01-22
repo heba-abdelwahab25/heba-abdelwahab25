@@ -1,11 +1,24 @@
-  - uses: Platane/snk@v3
-    with:
-      github_user_name: heba-abdelwahab25
-      outputs: |
-        dist/github-contribution-grid-snake.svg
+name: Generate Snake
 
-  - uses: peaceiris/actions-gh-pages@v4
-    with:
-      github_token: ${{ secrets.GITHUB_TOKEN }}
-      publish_dir: dist
-      publish_branch: output
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: heba-abdelwahab25
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
