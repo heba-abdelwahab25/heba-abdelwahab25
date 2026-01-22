@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Heba Abdelwahab</h1>
-![Snake animation](https://github.com/heba-abdelwahab25/heba-abdelwahab25/blob/output/github-contribution-grid-snake.svg)
 <h3 align="center">
 Junior Technical Engineer | QA, Security & Systems
 </h3>
@@ -13,7 +12,7 @@ Junior Technical Engineer | QA, Security & Systems
 ## 👩‍💻 About Me
 
 - 🎓 Junior **Cybersecurity student** with a strong interest in **software quality and testing**
-- 🧪 Actively transitioning toward **QA / software testing**, with a focus on *how systems break*
+- 🧪 Actively transitioning toward **QA / software testing**, focusing on *how systems break*
 - 🐧 Hands-on experience with **Linux & Windows system administration**
 - 🔍 Beginner-level experience in **bug discovery, vulnerability analysis, and reporting**
 - 🧠 Strong analytical mindset, detail-oriented, and eager to learn **test automation**
@@ -85,6 +84,12 @@ I enjoy understanding how applications behave under different conditions and lea
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-abdelwahab25&layout=compact&theme=tokyonight" width="40%" />
 </p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/heba-abdelwahab25/heba-abdelwahab25/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
