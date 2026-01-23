@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは 👋, I'm Heba Abdelwahab</h1>
+<h1 align="center">こんにちは👋, I'm Heba Abdelwahab</h1>
 <h3 align="center">
 Junior Technical Engineer | QA, Security & Systems
 </h3>
