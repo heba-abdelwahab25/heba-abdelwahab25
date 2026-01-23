@@ -77,12 +77,21 @@ I enjoy understanding how applications behave under different conditions and lea
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heba-abdelwahab25&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heba-abdelwahab25&theme=tokyonight" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=heba-abdelwahab25&show_icons=true&include_all_commits=false&count_private=false&hide_rank=true&theme=tokyonight"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=heba-abdelwahab25&theme=tokyonight"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-abdelwahab25&layout=compact&theme=tokyonight" width="40%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heba-abdelwahab25&layout=compact&langs_count=6&hide=html,css&theme=tokyonight"
+    width="40%"
+  />
 </p>
 
 
