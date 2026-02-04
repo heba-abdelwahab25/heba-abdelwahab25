@@ -1,6 +1,6 @@
 <h1 align="center">こんにちは👋, I'm Heba Abdelwahab</h1>
 <h3 align="center">
-Junior Technical Engineer | QA, Security & Systems
+Junior Infrastructure & Network Engineer | Systems | Security Foundations
 </h3>
 
 <p align="center">
@@ -11,66 +11,71 @@ Junior Technical Engineer | QA, Security & Systems
 
 ## 👩‍💻 About Me
 
-- 🎓 Junior **Cybersecurity student** with a strong interest in **software quality and testing**
-- 🧪 Actively transitioning toward **QA / software testing**, focusing on *how systems break*
+- 🎓 Junior **Computer Networks & Cybersecurity student**
+- 🖥️ Interested in **Infrastructure, Network Operations, and System Administration**
 - 🐧 Hands-on experience with **Linux & Windows system administration**
-- 🔍 Beginner-level experience in **bug discovery, vulnerability analysis, and reporting**
-- 🧠 Strong analytical mindset, detail-oriented, and eager to learn **test automation**
-- 🌱 Currently improving skills in **Python scripting, testing fundamentals, and debugging**
+- 🌐 Strong foundation in **networking (routing, switching, VLANs, TCP/IP)**
+- 🔐 Security-aware with understanding of **how systems fail and get attacked**
+- 🧠 Analytical, detail-oriented, and motivated to grow in **automation and infrastructure reliability**
+- 🌱 Currently improving skills in **Python scripting, Bash, and system automation concepts**
 
-I enjoy understanding how applications behave under different conditions and learning how to **validate, break, and improve software quality**.
+I enjoy building, configuring, and troubleshooting systems and networks, and learning how to make infrastructure **stable, secure, and scalable**.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🔹 QA, Testing & Analysis (Foundational)
-- Manual Testing Concepts
-- Bug Identification & Reproduction
-- Writing Clear Bug Reports
-- Test Case Thinking (positive / negative scenarios)
-- Regression Awareness
-- Security Testing Mindset (OWASP Top 10)
-
-### 🔹 Programming & Scripting
-- Python (basic scripting, logic, automation fundamentals)
-- C / C++ (academic)
-- Bash (basic)
-- Git & GitHub
-
-### 🔹 Systems & Operating Systems
-- Linux (Kali)
+### 🔹 Infrastructure & Systems
+- Linux (Kali, Ubuntu)
 - Windows & Windows Server (basic administration)
 - User & Permission Management
+- Service Management
 - Logs & System Troubleshooting
 - Virtual Machines & Lab Environments
 
-### 🔹 Networking & Security Foundations
-- TCP/IP, Subnetting, Routing Basics
-- SSH, SSL/TLS (theoretical & practical understanding)
-- Network Traffic Analysis (Wireshark)
+### 🔹 Networking
+- TCP/IP, Subnetting
+- VLANs, Trunking, Inter-VLAN Routing
+- Routing Basics (Static, OSPF)
+- Network Troubleshooting
+- Packet Analysis (Wireshark)
+
+### 🔹 Automation & Scripting
+- Python (basic scripting, logic, automation fundamentals)
+- Bash (basic)
+- Git & GitHub
+
+### 🔹 Security Foundations
+- Network Security Basics
+- OWASP Top 10 (awareness)
+- Vulnerability Discovery & Reporting (beginner)
+- SSH, SSL/TLS fundamentals
 - SIEM Concepts (theoretical)
-- Phishing Awareness & Analysis
 
 ---
 
 ## 🧪 Projects & Hands-On Experience
 
-### 🔐 OWASP Juice Shop – Security & Bug Discovery (Academic)
-- Explored real-world web application vulnerabilities (XSS, SQLi, CSRF, etc.)
-- Focused on **understanding application behavior**, root cause analysis, and exploitation flow
-- Gained experience in **finding, reproducing, and documenting issues**
-- Strengthened testing mindset and attention to edge cases
+### 🌐 Network Configuration & Troubleshooting Labs
+- Built routed and switched network topologies using Packet Tracer and GNS3  
+- Configured VLANs, trunking, and inter-VLAN routing  
+- Performed structured troubleshooting of connectivity issues  
+- Analyzed traffic using Wireshark  
+
+### 🔐 OWASP Juice Shop – Security Testing Labs
+- Explored real-world web vulnerabilities (XSS, SQLi, CSRF, etc.)
+- Focused on understanding application behavior and root causes
+- Documented findings and reproduction steps
 
 ### 🖥️ Incident Response Web Application (Graduation Project – Ongoing)
-- Contributing to a Python-based system for log analysis and event classification
-- Working with structured data, system events, and error conditions
-- Exposure to debugging, validation, and monitoring logic
+- Contributing to a Python-based system for log analysis and event classification  
+- Working with structured events, logs, and error handling  
+- Exposure to debugging and validation logic  
 
 ### 🛠️ Technical Assistant – Local Computer Shop
-- Diagnosed software and OS issues for real users
-- Installed, configured, and troubleshot operating systems
-- Learned structured problem-solving and clear technical communication
+- Installed and maintained Windows and Linux systems  
+- Diagnosed software and OS issues  
+- Assisted with small network setups and IP configuration  
 
 ---
 
@@ -89,11 +94,9 @@ I enjoy understanding how applications behave under different conditions and lea
 
 <p align="center">
   <sub>
-    GitHub activity reflects public repositories and learning-focused contributions.
+    Public repositories mainly reflect learning, labs, and academic projects.
   </sub>
 </p>
-
-
 
 ![Snake animation](https://github.com/heba-abdelwahab25/heba-abdelwahab25/blob/output/github-contribution-grid-snake.svg)
 
@@ -101,20 +104,18 @@ I enjoy understanding how applications behave under different conditions and lea
 
 ## 🤝 Team & Academic Work
 
-- 👥 Participated in **team-based university projects**
-- 🔐 Working on **graduation projects related to secure systems**
-- 🧪 Hands-on labs in Linux, networking, and security testing
-
-*(Some repositories belong to organizations or teams and may not appear directly on my profile.)*
+- Participated in **team-based university projects**
+- Working on **graduation project related to secure systems**
+- Hands-on labs in Linux, networking, and security
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [heba-abdelwahab](https://www.linkedin.com/in/heba-abdelwahab-)
+- 💼 LinkedIn: https://www.linkedin.com/in/heba-abdelwahab-
 - 📧 Email: hbutera461@gmail.com
 
 ---
 
 ⭐ Feel free to explore my repositories and pinned projects below.  
-I’m always learning and improving 🚀
+Always learning and improving 🚀
